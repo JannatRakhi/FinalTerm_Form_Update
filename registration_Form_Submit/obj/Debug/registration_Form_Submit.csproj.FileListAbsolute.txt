@@ -1,0 +1,13 @@
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\bin\Debug\registration_Form_Submit.exe.config
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\bin\Debug\registration_Form_Submit.exe
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\bin\Debug\registration_Form_Submit.pdb
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\obj\Debug\registration_Form_Submit.csprojAssemblyReference.cache
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\obj\Debug\registration_Form_Submit.Form1.resources
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\obj\Debug\registration_Form_Submit.Form2.resources
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\obj\Debug\registration_Form_Submit.Properties.Resources.resources
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\obj\Debug\registration_Form_Submit.csproj.GenerateResource.cache
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\obj\Debug\registration_Form_Submit.csproj.CoreCompileInputs.cache
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\obj\Debug\registration_Form_Submit.exe
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\obj\Debug\registration_Form_Submit.pdb
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\obj\Debug\registration_Form_Submit.Form3.resources
+D:\C#\Finalterm_Form\registration_Form_Submit\registration_Form_Submit\obj\Debug\registration_Form_Submit.ShowInformation.resources
